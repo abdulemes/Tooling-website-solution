@@ -82,8 +82,10 @@ Step 4 - Tooling source code was forked from github.
 
 ![IMG_9793](https://user-images.githubusercontent.com/93732510/163709095-92d3b79b-e295-4e83-a96f-748db94ff5f8.jpg)
 
-Step 5 - Databse was updated with an admin user, users inserted, tooling script added.
+Step 5 - MYSQl was looged into using the user credentials and tooling script added.
 
 Step 6 - Application was acessed via browser.
 
 ![IMG_9794](https://user-images.githubusercontent.com/93732510/163709182-1273c002-45e4-40ee-8994-c2d9a2e27e99.jpg)
+
+![IMG_9883](https://user-images.githubusercontent.com/93732510/164782872-762ca4f9-f8ce-43b1-b45a-74266fd8caee.jpg)
